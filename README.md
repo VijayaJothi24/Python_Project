@@ -1,18 +1,33 @@
-Technical Skills:
-Python: A versatile programming language widely used for data analysis, machine learning, and automation.
-SQL: Essential for querying and managing databases.
-Tableau and Power BI: Tools for creating interactive data visualizations.
-Matplotlib and Seaborn: Python libraries for data visualization.
-MySQL: A popular relational database management system.
-Advanced Excel: Including pivot tables, VLOOKUP, and complex formulas.
-Microsoft Azure: Understanding cloud services and data analytics.
-Soft Skills:
-Proactive Communication: Vital for collaborating with teams and stakeholders.
-Self-Motivation and Self-Discipline: Crucial for continuous learning and growth.
-Tech Literacy: Adaptability to new tools and technologies.
-Time Management: Balancing tasks efficiently.
-Adaptability and Teamwork: Essential in any work environment.
-Education and Training:
-You’re currently enrolled in the Just IT Training Ltd bootcamp, which covers data fundamentals, architecture, governance, and analysis. It’s an excellent opportunity to gain practical skills.
-Your bachelor’s degree from ACCET, Karaikudi included core modules related to structural engineering, soil mechanics, construction management, transportation, and environmental studies.
-Your final year project on Structural Analysis of Structures in GT STrudl and Manual demonstrates your practical experience
+Aspirations are to work as a Data Technician and to gain the skills and experience necessary. I thrive working in a challenging environment, problem solving and finding the best solutions possible.
+ 
+Looking to further develop my technical skills as a Data Technician and apply my analytical and numerical skills to assist the completion of complex projects whilst learning new technologies along the way.
+
+KeySkills:
+Technical Skills:  
+Python, SQL, Tableau, Power BI, Matplotlib, Seaborn, MySQL, Excel Advanced (Pivot Tables, VLOOKUP, Complex Formulas), Microsoft Azure 	   
+
+Soft Skills: 
+Proactive Communication, Self-Motivation, Self-Discipline, Tech Literacy, Time Management, Adaptability, Teamwork
+
+Training and Education 
+04/24-Present		Just IT Training Ltd, London
+				Digital Skills Bootcamp: Data Technician 
+A twelve-week intensive bootcamp covering the fundamentals of Data Technician.
+Data, Big Data and Data Structures
+Data Architecture & Governance
+Data Analysis using MS Excel.
+Introduction to Data Visualisation with MS Excel Tableau and Power BI
+Module 4- Data Analytics – Power BI
+Introduction to Database- Access & SQL Assignment
+Azure Fundamentals - Module 4- Fundamentals of data analytics
+Azure Fundamentals - Module 3- Non -relational data in Azure - Access (DB)
+Azure Fundamentals - Module 2- relational data in Azure (DB)
+Azure Fundamentals - Module 1- core data concepts- Software SAAS, Cloud
+Data Analysis via Python programming- Utilising Pandas, Matplotlib & Seaborn
+	ACCET, Karaikudi, INDIA
+				Bachelor's Of Engineering and Civil & Construction
+Coré Modules:		Structural, Soil Mechanics, Construction Management,
+Transport, Environnemental
+Languages:       	              C language 
+Final Year Project:          Structural Analysis of Structures in GT STrudl and Manual -  
+     	 		parallels
